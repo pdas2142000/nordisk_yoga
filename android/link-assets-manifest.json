@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Arsenal-Bold.ttf",
+      "sha1": "3a04240ee44a7bf9b9613ad8a1008c7c35321604"
+    },
+    {
+      "path": "assets/fonts/Arsenal-Regular.ttf",
+      "sha1": "7e7fe61830354487863d39a49f25c90c06c38619"
+    }
+  ]
+}
